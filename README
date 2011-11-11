@@ -1,0 +1,4 @@
+This is a Bitcoin Miner writen in Haskell.
+
+Usage: HSMiner [URI] [USER] [PASSWORD]
+Example: HSMiner http://deepbit:8332 user password
